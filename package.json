@@ -33,13 +33,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aiko-chan-ai/y2mate-api"
+    "url": "https://github.com/krxuv/y2mate-api"
   },
   "bugs": {
-    "url": "https://github.com/aiko-chan-ai/y2mate-api/issues"
+    "url": "https://github.com/krxuv/y2mate-api/issues"
   },
-  "homepage": "https://github.com/aiko-chan-ai/y2mate-api",
-  "author": "aiko-chan-ai",
+  "homepage": "https://github.com/krxuv/y2mate-api",
+  "author": "krxuv",
   "license": "ISC",
   "dependencies": {
     "format-duration": "^3.0.2",
